@@ -1,5 +1,4 @@
-import "./App.css";
-import Home from "./screen/Home";
+import Home from "./screen/home/Home";
 
 function App() {
   return (
